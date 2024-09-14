@@ -1,0 +1,41 @@
+{
+  "title": "Perdidas territoriales de Bilivia",
+  "date": "4/01/22",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "perdidas_territoriales_de_bilivia.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 17,
+  "totalSize": 694995,
+  "files": [
+    "00_final_bien.mp3",
+    "03_intentalo_de_nuevo.mp3",
+    "1.jpg",
+    "a2_bien.mp3",
+    "acre.mp3",
+    "bolivia.mp3",
+    "chaco_boreal.mp3",
+    "chaco_central.mp3",
+    "desierto_de_atacama.mp3",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "litoral.mp3",
+    "mato_grosso.mp3",
+    "perdidas_territoriales_de_bilivia.jclic",
+    "perdidas_territoriales_de_bilivia.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "purus.mp3"
+  ]
+}
